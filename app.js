@@ -32,7 +32,6 @@ function randomizeAdcItem() {
     displaySpecialItems(adcItem, adcCont);
 }
 
-
 //displaying functionality
 function displaySpecialItems(item, itemContainerId) {
     let specialItemCont =  document.getElementById(itemContainerId);

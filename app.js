@@ -38,7 +38,6 @@ function displaySpecialItems(item, itemContainerId) {
     let specialItemImg = document.createElement("IMG");
     specialItemImg.setAttribute("src", item.src);
     specialItemImg.setAttribute("title", item.title);
-    console.log(specialItemImg);
     if (specialItemCont.children.length < 1) {
         specialItemCont.appendChild(specialItemImg);
         let imageTitle = document.createElement("div");

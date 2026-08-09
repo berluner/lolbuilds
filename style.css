@@ -1,0 +1,139 @@
+h1 {
+    font-family: 'Loca', sans-serif;
+    color: #b73aaf;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-shadow: -2px 2px 0 #fff, 2px 2px 0 #fff, -2px -2px 0 #fff, 2px -2px 0 #fff;
+}
+body {
+    background-color: #f4b6eb;
+    font-family: 'Wix', sans-serif;
+}
+.Players{
+   display: flex;
+    font-weight: bold;
+    width: calc(100% - 20px);
+    margin-bottom: 25px;
+}
+playerOne{
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    border: 2px solid #b73aaf;
+    border-radius: 20px;
+    background-color: #E785CF;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+playerTwo{
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    border: 2px solid #b73aaf;
+    border-radius: 20px;
+    background-color: #E785CF;
+    margin-right: 20px;
+}
+playerThree{
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    border: 2px solid #b73aaf;
+    border-radius: 20px;
+    background-color: #E785CF;
+    margin-right: 20px;
+}
+playerFour{
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    border: 2px solid #b73aaf;
+    border-radius: 20px;
+    background-color: #E785CF;
+    margin-right: 20px;
+}
+playerFive{
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    border: 2px solid #b73aaf;
+    border-radius: 20px;
+    background-color: #E785CF;
+}
+junglePet{
+    background-color: #E785CF;
+    margin-left: 15px;
+    width: 12%;
+    border: 2px solid #b73aaf;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+suppItem{
+    background-color: #E785CF;
+    margin-left: 15px;
+    width: 18%;
+    border: 2px solid #b73aaf;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+bootlist{
+    background-color: #E785CF;
+    margin-left: 15px;
+    width: 20%;
+    border: 2px solid #b73aaf;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+startingItemlist{
+    background-color: #E785CF;
+    margin-left: 15px;
+    width: 25%;
+    border: 2px solid #b73aaf;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+legendaryItemlist{
+    background-color: #E785CF;
+    margin-left: 15px;
+    width: 96.3%;
+    border: 2px solid #b73aaf;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
